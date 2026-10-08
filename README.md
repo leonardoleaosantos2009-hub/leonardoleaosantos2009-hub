@@ -90,7 +90,7 @@ Gosto de aprender fazendo: cada projeto aqui nasceu de um conceito que estudei e
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3>🛒 API REST Supermercado</h3>
+      <h3><a href="https://github.com/leonardoleaosantos2009-hub/09_supermercado"> API REST Supermercado</h3>
       <p>API para gerenciar os produtos de um supermercado, com CRUD completo (cadastrar, listar, buscar por ID, atualizar e excluir), validação de campos, códigos HTTP e persistência em arquivo JSON.</p>
       <p><img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js" /> <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white" alt="Express" /> <img src="https://img.shields.io/badge/REST%20API-2c5364?style=flat-square" alt="REST%20API" /> <img src="https://img.shields.io/badge/JSON-555555?style=flat-square" alt="JSON" /></p>
     </td>
