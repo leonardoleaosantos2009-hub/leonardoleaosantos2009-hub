@@ -5,7 +5,7 @@
 
 <p align="center">
   <a href="https://github.com/leonardoleaosantos2009-hub">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&width=700&lines=Ol%C3%A1%2C+eu+sou+o+Leonardo+%F0%9F%91%8B;Desenvolvedor+de+Sistemas+Full-Stack+%F0%9F%92%BB;HTML+%7C+CSS+%7C+JavaScript+%7C+Node.js+%7C+SQL+%7C+C%2B%2B;Estudando+Machine+Learning+no+SENAI+%F0%9F%A4%96;Aberto+a+oportunidades+em+tecnologia+%F0%9F%9A%80" alt="Texto animado" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&width=700&lines=Ol%C3%A1%2C+eu+sou+o+Leonardo+%F0%9F%91%8B;Desenvolvedor+de+Sistemas+Full-Stack+%F0%9F%92%BB;HTML+%7C+CSS+%7C+JavaScript+%7C+Node.js+%7C+MySQL+%7C+C%2B%2B;Estudando+Machine+Learning+no+SENAI+%F0%9F%A4%96;Aberto+a+oportunidades+em+tecnologia+%F0%9F%9A%80" alt="Texto animado" />
   </a>
 </p>
 
@@ -37,7 +37,7 @@
 | 👤 **Perfil** | Desenvolvedor de Sistemas em formação, Full-Stack, com foco em Front-End |
 | 🎓 **Formação** | Técnico em Desenvolvimento de Sistemas, SENAI (Fev/2026 – Dez/2027) |
 | 🤖 **Aperfeiçoamento** | Machine Learning, SENAI (Jul/2026 – Dez/2026) |
-| 💻 **Stack** | HTML5 · CSS3 · JavaScript · SQL · C++ · Arduino · Git/GitHub · Node.js · Express |
+| 💻 **Stack** | HTML5 · CSS3 · JavaScript · SQL · MySQL · C++ · Arduino · Git/GitHub · Node.js · Express |
 | 🎯 **Busco** | Estágio ou vaga júnior em desenvolvimento de software |
 | 📍 **Local** | Botucatu, SP |
 | 🌎 **Idiomas** | Português (nativo) · Inglês (básico) |
@@ -56,7 +56,7 @@ Gosto de aprender fazendo: cada projeto aqui nasceu de um conceito que estudei e
 ## 🛠️ Tecnologias
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,nodejs,express,cpp,arduino,git,github&perline=9" alt="HTML, CSS, JavaScript, Node.js, Express, C++, Arduino, Git e GitHub" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,nodejs,express,mysql,cpp,arduino,git,github&perline=10" alt="HTML, CSS, JavaScript, Node.js, Express, MySQL, C++, Arduino, Git e GitHub" />
 </p>
 
 <p align="center">
@@ -65,7 +65,8 @@ Gosto de aprender fazendo: cada projeto aqui nasceu de um conceito que estudei e
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
   <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js" />
   <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white" alt="Express" />
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square" alt="SQL" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL" />
+  <img src="https://img.shields.io/badge/SQL-336791?style=flat-square" alt="SQL" />
   <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white" alt="C++" />
   <img src="https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white" alt="Arduino" />
   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
@@ -77,8 +78,8 @@ Gosto de aprender fazendo: cada projeto aqui nasceu de um conceito que estudei e
 | 🌐 **Desenvolvimento Web** | HTML5, CSS3, JavaScript |
 | 🎨 **Front-End** | Interfaces web, responsividade, estilização com CSS |
 | 🧠 **Programação** | Lógica de programação, funções, arrays, estruturas de controle |
-| 🗄️ **Banco de Dados** | SQL (DDL/DML), modelagem de dados, DER |
-| ⚙️ **Back-End** | Node.js, Express, API REST (CRUD), persistência em JSON |
+| 🗄️ **Banco de Dados** | SQL (DDL/DML), MySQL, modelagem de dados, DER |
+| ⚙️ **Back-End** | Node.js, Express, API REST (CRUD), MySQL (mysql2), variáveis de ambiente (dotenv), organização em rotas e controladores |
 | 🔌 **Eletrônica** | Arduino UNO, sensores, C++ |
 | 🤖 **Machine Learning** | Fundamentos (em aprendizado) |
 | 🧰 **Ferramentas** | Git, GitHub, Pacote Office, hardware e configuração |
@@ -90,35 +91,39 @@ Gosto de aprender fazendo: cada projeto aqui nasceu de um conceito que estudei e
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3><a href="https://github.com/leonardoleaosantos2009-hub/09_supermercado"> API REST Supermercado</h3>
-      <p>API para gerenciar os produtos de um supermercado, com CRUD completo (cadastrar, listar, buscar por ID, atualizar e excluir), validação de campos, códigos HTTP e persistência em arquivo JSON.</p>
-      <p><img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js" /> <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white" alt="Express" /> <img src="https://img.shields.io/badge/REST%20API-2c5364?style=flat-square" alt="REST%20API" /> <img src="https://img.shields.io/badge/JSON-555555?style=flat-square" alt="JSON" /></p>
+      <h3>📚 <a href="https://github.com/leonardoleaosantos2009-hub/papyro-db">Papyro — Gestão de Biblioteca</a></h3>
+      <p>Sistema de biblioteca para alunos e professores. Banco <b>MySQL</b> com 4 tabelas relacionadas (livro, leitor, exemplar e empréstimo) e <b>API REST</b> em Node.js e Express, organizada em rotas e controladores. Já cadastra livros com validação de campos, bloqueio de ISBN duplicado (409) e tratamento de erros. <i>Em desenvolvimento.</i></p>
+      <p><img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js" /> <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white" alt="Express" /> <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL" /> <img src="https://img.shields.io/badge/API%20REST-2c5364?style=flat-square" alt="API%20REST" /> <img src="https://img.shields.io/badge/dotenv-ECD53F?style=flat-square&logo=dotenv&logoColor=black" alt="dotenv" /></p>
     </td>
+    <td width="50%" valign="top">
+      <h3>🛒 API REST Supermercado</h3>
+      <p>API para gerenciar os produtos de um supermercado, com CRUD completo (cadastrar, listar, buscar por ID, atualizar e excluir), validação de campos, códigos HTTP e persistência em arquivo JSON.</p>
+      <p><img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js" /> <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white" alt="Express" /> <img src="https://img.shields.io/badge/API%20REST-2c5364?style=flat-square" alt="API%20REST" /> <img src="https://img.shields.io/badge/JSON-555555?style=flat-square" alt="JSON" /></p>
+    </td>
+  </tr>
+  <tr>
     <td width="50%" valign="top">
       <h3>🗄 <a href="https://github.com/leonardoleaosantos2009-hub/DDL-DML-">Modelagem de Banco de Dados</a></h3>
       <p>Criação de modelos relacionais e DER, com entidades, atributos, chaves primárias e estrangeiras, usando comandos DDL e DML.</p>
       <p><img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square" alt="SQL" /> <img src="https://img.shields.io/badge/DDL-2c5364?style=flat-square" alt="DDL" /> <img src="https://img.shields.io/badge/DML-2c5364?style=flat-square" alt="DML" /></p>
     </td>
-  </tr>
-  <tr>
     <td width="50%" valign="top">
       <h3>🅿 <a href="https://github.com/leonardoleaosantos2009-hub/Sensor-de-Estacionamento-Ultrassonico-com-Arduino">Sensor de Estacionamento</a></h3>
       <p>Sensor ultrassônico com Arduino UNO que mede a distância de obstáculos, programado em C++.</p>
       <p><img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white" alt="C%2B%2B" /> <img src="https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white" alt="Arduino" /></p>
     </td>
+  </tr>
+  <tr>
     <td width="50%" valign="top">
       <h3>🛒 Página de Vendas para Curso</h3>
       <p>Página web com seções, cards, botões e elementos de apresentação, desenvolvida com HTML e CSS.</p>
       <p><img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5" /> <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3" /></p>
     </td>
-  </tr>
-  <tr>
     <td width="50%" valign="top">
       <h3>🖼 Galeria de Projetos Web</h3>
       <p>Interface de galeria com foco em organização e estilização de elementos.</p>
       <p><img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5" /> <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3" /></p>
     </td>
-    <td width="50%"></td>
   </tr>
 </table>
 
@@ -142,8 +147,8 @@ timeline
 
 ## 🎯 Em que estou focado agora
 
-- 🌱 Aprofundar **JavaScript** e **Back-End** (Node.js, Express e integração com banco de dados)
-- 🗄️ Evoluir em **SQL** e modelagem de dados
+- 🌱 Aprofundar **JavaScript** e **Back-End** (Node.js, Express e MySQL), completando o CRUD do projeto Papyro
+- 🗄️ Evoluir em **SQL/MySQL** e modelagem de dados
 - 🤖 Concluir o aperfeiçoamento em **Machine Learning**
 - 🚀 Publicar novos projetos de **Front-End** e integrar com Back-End
 - 🇺🇸 Melhorar o **inglês técnico**
