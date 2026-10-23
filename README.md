@@ -162,7 +162,7 @@ Sensor ultrassônico com Arduino UNO que mede a distância de obstáculos, progr
 </td>
 <td width="50%" valign="top">
 
-### 🌐 Página de Vendas & Galeria Web
+### 🌐 [Página de Vendas & Galeria Web](https://github.com/leonardoleaosantos2009-hub/-Pagina-de-Vendas-Galeria-Web)
 Interfaces web com seções, cards, botões e elementos estilizados, desenvolvidas com HTML e CSS puro.
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
