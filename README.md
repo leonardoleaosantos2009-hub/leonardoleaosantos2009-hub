@@ -79,4 +79,63 @@ Gosto de aprender fazendo: cada projeto aqui nasceu de um conceito que estudei e
 | 🌐 **Desenvolvimento Web** | HTML5, CSS3, JavaScript (DOM, ES6+), consumo de APIs com Axios |
 | 🎨 **Front-End** | Interfaces dinâmicas, formulários interativos, estilização responsiva, feedbacks visuais |
 | ⚙️ **Back-End** | Node.js, Express, API REST (CRUD completo), soft delete, middlewares, variáveis de ambiente (dotenv) |
-| 🗄️ **Banco de Dados** | SQL (DDL/DML), MySQL (
+| 🗄️ **Banco de Dados** | SQL (DDL/DML), MySQL (driver mysql2 com connection pool), modelagem relacional |
+| 🧠 **Programação** | Lógica de programação, funções, estruturas condicionais e de repetição |
+| 🔌 **Eletrônica** | Arduino UNO, sensores, C++ |
+| 🤖 **Machine Learning** | Fundamentos (em aprendizado) |
+| 🧰 **Ferramentas** | Git, GitHub, VS Code, Pacote Office, hardware e configuração |
+
+---
+
+## 🚀 Projetos
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>📦 <a href="https://github.com/leonardoleaosantos2009-hub/cadastro_produto">Sistema de Cadastro de Produtos</a></h3>
+      <p>Aplicação Full-Stack completa para gestão de produtos. Possui interface web dinâmica com formulário interativo (HTML/CSS/JS/Axios) conectada a uma API RESTful em Node.js e Express, com persistência em banco MySQL e suporte a criação, edição, listagem e desativação lógica (soft delete).</p>
+      <p><img src="https://img.shields.io/badge/Full--Stack-00d4ff?style=flat-square" alt="Full-Stack" /> <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js" /> <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white" alt="Express" /> <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL" /> <img src="https://img.shields.io/badge/Axios-5A29E4?style=flat-square&logo=axios&logoColor=white" alt="Axios" /></p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>📚 <a href="https://github.com/leonardoleaosantos2009-hub/papyro-db">Papyro — Gestão de Biblioteca</a></h3>
+      <p>Sistema de biblioteca para alunos e professores. Banco <b>MySQL</b> com 4 tabelas relacionadas (livro, leitor, exemplar e empréstimo) e <b>API REST</b> em Node.js e Express, organizada em rotas e controladores. Validação de campos e bloqueio de ISBN duplicado. <i>Em desenvolvimento.</i></p>
+      <p><img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js" /> <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white" alt="Express" /> <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL" /> <img src="https://img.shields.io/badge/API%20REST-2c5364?style=flat-square" alt="API REST" /></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🛒 API REST Supermercado</h3>
+      <p>API para gerenciar os produtos de um supermercado, com CRUD completo (cadastrar, listar, buscar por ID, atualizar e excluir), validação de campos, códigos HTTP e persistência em arquivo JSON.</p>
+      <p><img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js" /> <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white" alt="Express" /> <img src="https://img.shields.io/badge/API%20REST-2c5364?style=flat-square" alt="API REST" /> <img src="https://img.shields.io/badge/JSON-555555?style=flat-square" alt="JSON" /></p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🗄 <a href="https://github.com/leonardoleaosantos2009-hub/DDL-DML-">Modelagem de Banco de Dados</a></h3>
+      <p>Criação de modelos relacionais e DER, com entidades, atributos, chaves primárias e estrangeiras, usando comandos DDL e DML no MySQL.</p>
+      <p><img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square" alt="SQL" /> <img src="https://img.shields.io/badge/DDL-2c5364?style=flat-square" alt="DDL" /> <img src="https://img.shields.io/badge/DML-2c5364?style=flat-square" alt="DML" /></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🅿 <a href="https://github.com/leonardoleaosantos2009-hub/Sensor-de-Estacionamento-Ultrassonico-com-Arduino">Sensor de Estacionamento</a></h3>
+      <p>Sensor ultrassônico com Arduino UNO que mede a distância de obstáculos, programado em C++.</p>
+      <p><img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white" alt="C++" /> <img src="https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white" alt="Arduino" /></p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🛒 Página de Vendas & Galeria Web</h3>
+      <p>Interfaces web com seções, cards, botões e elementos estilizados desenvolvidos com HTML e CSS puro.</p>
+      <p><img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5" /> <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3" /></p>
+    </td>
+  </tr>
+</table>
+
+---
+
+## 🧭 Trajetória
+
+```mermaid
+timeline
+    title Minha jornada na tecnologia
+    Fev 2026 : Início do Técnico em Desenvolvimento de Sistemas no SENAI
+    Jul 2026 : Início do Aperfeiçoamento em Machine Learning no SENAI
+    Dez 2026 : Conclusão do aperfeiçoamento em Machine Learning
+    Dez 2027 : Conclusão prevista do curso técnico
