@@ -144,8 +144,8 @@ Montei um site para apresentar meu currículo, com visual futurista, tema claro/
   </tr>
   <tr>
     <td colspan="2" valign="top">
-      <h3>🖼️ <a href="https://github.com/leonardoleaosantos2009-hub/galeria-web">Galeria de Projetos Web</a></h3>
-      <p>Vitrine dos meus projetos com filtros por categoria, miniaturas desenhadas em CSS, layout responsivo e animações, feita só com HTML e CSS puro. <a href="https://leonardoleaosantos2009-hub.github.io/galeria-web/">Abrir a galeria ao vivo.</a></p>
+      <h3>🖼️ <a href="https://github.com/leonardoleaosantos2009-hub/curriculo/galeria.html">Galeria de Projetos Web</a></h3>
+      <p>Vitrine dos meus projetos com filtros por categoria, miniaturas desenhadas em CSS, layout responsivo e animações, feita só com HTML e CSS puro. <a href="https://leonardoleaosantos2009-hub.github.io/curriculo/galeria.html">Abrir a galeria ao vivo.</a></p>
       <p><img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5" /> <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3" /></p>
     </td>
   </tr>
